@@ -1,7 +1,7 @@
 # CS4933_Project | Colorizing GANs
 
 
-In this work, we generalize the colorization operation using a (DCGAN) with a U-Net generator and PatchGAN descriminator. This network is trained on [CIFA-10](https://www.cs.toronto.edu/~kriz/cifar.html).
+In this work, we generalize the colorization operation using a (DCGAN) with a U-Net generator and PatchGAN descriminator. This network is trained on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 ## Prerequisites
 * Linux
